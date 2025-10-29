@@ -8,5 +8,10 @@
   "author": "Austin Vandegriff",
   "license": "ISC",
   "description": "",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "epress": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
